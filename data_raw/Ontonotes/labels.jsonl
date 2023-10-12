@@ -1,0 +1,8 @@
+{
+  "train":["ORG", "NORP", "ORDINAL", "WORK_OF_ART", "QUANTITY", "LAW"],
+  "dev":["GPE", "CARDINAL", "PERCENT", "TIME", "EVENT", "LANGUAGE"],
+  "test":["PERSON", "DATE", "MONEY", "LOC", "FAC", "PRODUCT"],
+  "proxy_train":["organization","nationality religion", "ordinal",  "work of art","quantity","law"],
+  "proxy_dev":["geographical social political entity", "cardinal","percent","time","event", "language"],
+  "proxy_test":["person","date", "money","location","fac",  "product"]
+}

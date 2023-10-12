@@ -1,0 +1,60 @@
+{
+  "train":
+  [
+    "CARDINAL",
+    "DATE",
+    "EVENT",
+    "FAC",
+    "GPE",
+    "LANGUAGE",
+    "LAW",
+    "LOC",
+    "MONEY",
+    "NORP",
+    "ORDINAL",
+    "ORG",
+    "PERCENT",
+    "PERSON",
+    "PRODUCT",
+    "QUANTITY",
+    "TIME",
+    "WORK_OF_ART"
+  ],
+  "dev":[],
+  "test":
+  [
+    "PER",
+    "LOC",
+    "ORG",
+    "MISC"
+  ],
+  "proxy_train":
+  [
+    "cardinal",
+    "date",
+    "event",
+    "fac",
+    "geographical social political entity",
+    "language",
+    "law",
+    "location",
+    "money",
+    "nationality religion",
+    "ordinal",
+    "organization",
+    "percent",
+    "person",
+    "product",
+    "quantity",
+    "time",
+    "work of art"
+  ],
+  "proxy_dev":[],
+  "proxy_test":
+  [
+    "person",
+    "location",
+    "organization",
+    "miscellaneous"
+  ]
+}
