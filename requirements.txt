@@ -1,5 +1,4 @@
-numpy~=1.21.6
-torch~=1.12.1
-transformers~=4.22.2
-tqdm~=4.64.1
-protobuf==3.20.1
+numpy
+torch~=2.1.0
+transformers~=4.34.0
+tqdm
