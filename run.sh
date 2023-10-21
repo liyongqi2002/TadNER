@@ -1,11 +1,8 @@
-type_modes=('original')
 
 datasets_target=('CONLL2003')
 k_shots=('1' '5')
 
-for _type_mode in "${type_modes[@]}"
-do
-      python3 main.py --mode use_type_name \
+python3 main.py --mode use_type_name \
                       --train True \
                       --dataset_source Ontonotes \
                       --dataset_target CONLL2003 \
@@ -15,8 +12,8 @@ do
                       --test_stage2_only False \
                       --filter True
 
-      for _dataset_target in "${datasets_target[@]}"
-      do
+for _dataset_target in "${datasets_target[@]}"
+    do
          for _k_shot in "${k_shots[@]}"
              do
                   python3 main.py --mode use_type_name \
@@ -29,5 +26,5 @@ do
                                   --test_stage2_only False \
                                   --filter True
              done
-      done
-done
+    done
+

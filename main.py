@@ -175,7 +175,7 @@ if __name__ == "__main__":
     args.target_class_num = len(args.id2label_test)
 
     ############################################################################
-    args.gpu_id = 1
+    args.gpu_id = 2
     print('***************** working on gpu id: ', args.gpu_id, ' *****************')
     args.device = torch.device("cuda:" + str(args.gpu_id) if torch.cuda.is_available() else "cpu")
 
