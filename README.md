@@ -1,3 +1,10 @@
+# Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition
+
+<!-- omit in toc -->
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/type-aware-decomposed-framework-for-few-shot/few-shot-ner-on-few-nerd-intra)](https://paperswithcode.com/sota/few-shot-ner-on-few-nerd-intra?p=type-aware-decomposed-framework-for-few-shot)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/type-aware-decomposed-framework-for-few-shot/few-shot-ner-on-few-nerd-inter)](https://paperswithcode.com/sota/few-shot-ner-on-few-nerd-inter?p=type-aware-decomposed-framework-for-few-shot)
+
+
 Code and data of our paper "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition" accepted by Findings of EMNLP 2023.
 
 ## Overview
