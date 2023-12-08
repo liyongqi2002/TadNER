@@ -43,6 +43,27 @@ You can download FEW-NERD dataset at https://ningding97.github.io/fewnerd/, Onto
 Here, for your convenience, we have released a small portion of the data as an example.
 `
 
+## Citation
+If you found this work helpful, please cite our paper!
+
+```bash
+@inproceedings{li-etal-2023-type-aware,
+    title = "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition",
+    author = "Li, Yongqi  and
+      Yu, Yu  and
+      Qian, Tieyun",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.598",
+    pages = "8911--8927",
+}
+```
+
+
+
 ## Acknowledge
 
 The sampled few-shot data under Domain-Transfer settings is from https://github.com/psunlpgroup/CONTaiNER, thanks for their excellent work!
