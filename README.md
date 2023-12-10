@@ -7,6 +7,8 @@
 
 Code and data of our paper "Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition" accepted by Findings of EMNLP 2023.
 
+**Browse the code of this project more conveniently**: https://github.dev/liyongqi2002/TadNER
+
 Paper link: [Type-Aware Decomposed Framework for Few-Shot Named Entity Recognition](https://arxiv.org/abs/2302.06397)
 
 ## Overview
